@@ -9,4 +9,4 @@ I am passionate about technology, and i'm always looking for new knowledge. 👨
 
 Email for professional contact: <a href="mailto:hiagoramalhodev@gmail.com"><img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" width="20">  </img></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-ramalho/)](https://www.linkedin.com/in/hiago-ramalho/) 
+My LinkdeIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-ramalho/)](https://www.linkedin.com/in/hiago-ramalho/) 

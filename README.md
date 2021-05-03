@@ -7,6 +7,6 @@ Tenho focado meus estudos em HTML <img src="https://raw.githubusercontent.com/de
 
 Eu sou apaixonado por tecnologia, e estou sempre em busca de novos conhecimentos, em busca do próximo nível. 👨‍💻🚀
 
-Email para contato profissional: <a href="mailto:hiagoramalhodev@gmail.com"><img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" width="20">  </img></a>
+Email para contato profissional: hiagoramalhodev@gmail.com <a href="mailto:hiagoramalhodev@gmail.com"><img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" width="20">  </img></a>
 
 Meu LinkdeIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-ramalho/)](https://www.linkedin.com/in/hiago-ramalho/) 

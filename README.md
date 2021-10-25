@@ -1,7 +1,7 @@
 
 # Olá! 🤟
 
-Meu nome é **Hiago Ramalho**, sou Desenvolvedor Front-End Jr e nas horas vagas sou aspirante à surfista 🏄🏻‍♂️🌊.
+Meu nome é **Hiago Ramalho**, sou Desenvolvedor Front-End Jr.
 
 Tenho focado meus estudos/possuo conhecimentos em :
   - HTML  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" /> 
@@ -16,3 +16,14 @@ Eu sou apaixonado por tecnologia, e estou sempre em busca de novos conhecimentos
 
 
 Meu LinkdeIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-ramalho/)](https://www.linkedin.com/in/hiago-ramalho/) 
+
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiago-ramalho&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiago-ramalho&layout=compact&theme=dracula" />
+  </a>
+</div>
+

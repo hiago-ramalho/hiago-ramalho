@@ -14,9 +14,11 @@ Tenho focado meus estudos/possuo conhecimentos em :
 
 Eu sou apaixonado por tecnologia, e estou sempre em busca de novos conhecimentos, em busca do próximo nível. 👨‍💻🚀
 
+<a href="https://www.linkedin.com/in/hiago-ramalho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Meu LinkdeIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-ramalho/)](https://www.linkedin.com/in/hiago-ramalho/) 
-
+##
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">

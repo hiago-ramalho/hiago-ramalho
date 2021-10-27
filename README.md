@@ -16,7 +16,7 @@ Eu sou apaixonado por tecnologia, e estou sempre em busca de novos conhecimentos
 
 <a href="https://www.linkedin.com/in/hiago-ramalho/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<!-- </a>
 
 ##
 
@@ -27,5 +27,5 @@ Eu sou apaixonado por tecnologia, e estou sempre em busca de novos conhecimentos
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiago-ramalho&layout=compact&theme=dracula" />
   </a>
-</div>
+</div> -->
 
